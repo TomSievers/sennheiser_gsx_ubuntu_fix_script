@@ -1,0 +1,2 @@
+# THIS FIX WAS NOT MADE BY ME, I ONLY CREATED THE INSTALL SCRIPT
+The original udev rule and profile config was taken from https://bugs.launchpad.net/ubuntu/+source/pulseaudio/+bug/1821494. I only added a simple install script because this fix has yet to be merged.
